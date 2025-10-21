@@ -22,9 +22,11 @@ focus on stochastic dynamic models.
 
 ## Timetable
 
-* Mon 10th: Period 1 and Period 2
+* Mon 10th: Period 1
+* Mon 10th: Period 2
 * Tue 11th: Period 1
 * Wed 12th: no classes
 * Thurs: 13th: Period 1
 * Friday 14th: Period 1
-* Monday 17th: Periods 1 & 2
+* Monday 17th: Period 1
+* Monday 17th: Period 2
