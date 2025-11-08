@@ -19,6 +19,9 @@ currently deployed in artificial intelligence, machine learning, and
 reinforcement learning.  We will cover a range of economic applications, with a
 focus on stochastic dynamic models.
 
+## Location
+
+Room 201, 2nd floor, Building 3
 
 ## Timetable
 
