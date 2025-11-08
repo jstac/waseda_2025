@@ -33,3 +33,8 @@ Room 201, 2nd floor, Building 3
 * Friday 14th: Period 1
 * Monday 17th: Period 1
 * Monday 17th: Period 2
+
+## Notes
+
+Periods 1 = 8:50 - 10:30 
+Periods 1 & 2 = 8:50 - 12:20
