@@ -1,8 +1,5 @@
-![https://quantecon.org](qe-logo-large.png)
 
-----
-
-# Computational Economics
+# Computational Economics Course at Waseda 2025
 
 ## Instructor
 
