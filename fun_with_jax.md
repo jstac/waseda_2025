@@ -24,7 +24,6 @@ It should be run on a machine with a GPU --- for example, try Google Colab with 
 
 The aim is just to give a small taste of high performance computing in Python -- details will be covered later in the course.
 
-
 We start with some imports
 
 ```python
@@ -105,7 +104,7 @@ Let's time it.
 %%time
     
 y = jnp.cos(x_jax)
-jax.block_until_ready(y);  # Don't run forward until the array is returned
+jax.block_until_ready(y);  
 ```
 
 ```python

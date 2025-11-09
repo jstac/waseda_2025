@@ -34,10 +34,24 @@ Room 201, 2nd floor, Building 3
 * Monday 17th: Period 1
 * Monday 17th: Period 2
 
-## Notes
-
 Periods 1 = 8:50 - 10:30 
 Periods 1 & 2 = 8:50 - 12:20
+
+## Content
+
+* https://python.quantecon.org/mccall_model.html
+* https://python.quantecon.org/mccall_model_with_separation.html
+* https://python.quantecon.org/mccall_model_with_sep_markov.html
+* https://python.quantecon.org/lake_model.html
+* https://python.quantecon.org/endogenous_lake.html
+* https://python.quantecon.org/cake_eating.html
+* https://python.quantecon.org/cake_eating_numerical.html
+* https://python.quantecon.org/cake_eating_stochastic.html
+* https://python.quantecon.org/cake_eating_time_iter.html
+* https://python.quantecon.org/cake_eating_egm.html
+* https://python.quantecon.org/cake_eating_egm_jax.html
+* https://python.quantecon.org/ifp.html
+* https://python.quantecon.org/endogenous_lake.html
 
 ## Grading
 
