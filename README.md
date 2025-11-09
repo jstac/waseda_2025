@@ -67,5 +67,5 @@ review and respond to questions on their work.
 ## Prerequisites
 
 * Some familiarity with dynamic programming
-* Some understanding of analysis
+* Some understanding of analysis and probability
 * Familiarity with the foundations of MATLAB / scientific Python / Julia
