@@ -54,9 +54,9 @@ Periods 1 & 2 = 8:50 - 12:20
 This document is the only source of truth about everything in this course, including
 assignments and grading!
 
-* Attendance: 25\% (measured from Tuesday Nov 11)
-* [Assignment 1](assignments/assignment_1.pdf): 25\% -- Available now and due Friday Nov 14 midnight
-* Assignment 2: 50\% -- Available Friday Nov 14 and due Friday Nov 21 midnight
+* Attendance: 20\% (measured from Tuesday Nov 11)
+* [Assignment 1](assignments/assignment_1.pdf): 20\% -- Available now and due Friday Nov 14 midnight
+* Assignment 2: 60\% -- Available Friday Nov 14 and due Friday Nov 21 midnight
 
 Assessment of assignment 2 will involve randomized zoom calls where students will be asked to
 review and respond to questions on their work.
