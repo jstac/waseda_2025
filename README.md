@@ -36,18 +36,11 @@ Periods 1 & 2 = 8:50 - 12:20
 
 * [Introduction](intro.pdf)
 * [An Introduction to JAX](https://jax.quantecon.org/jax_intro.html)
-* [Job Search I: The McCall Search Model](mccall_model.ipynb)
-* [Job Search II: Search and Separation](mccall_model_with_separation.ipynb)
-* [Job Search III: Search with Separation and Markov Wages](mccall_model_with_sep_markov.ipynb)
+* [Job Search I: The McCall Search Model](https://python.quantecon.org/mccall_model.html)
+* [Job Search II: Search and Separation](https://python.quantecon.org/mccall_model_with_separation.html)
+* [Job Search III: Search with Separation and Markov Wages](https://python.quantecon.org/mccall_model_with_sep_markov.html)
 * [A Lake Model of Employment and Unemployment](https://python.quantecon.org/lake_model.html)
 * [Lake Model with an Endogenous Job Finding Rate](https://python.quantecon.org/endogenous_lake.html)
-* [Cake Eating I: Introduction to Optimal Saving](https://python.quantecon.org/cake_eating.html)
-* [Cake Eating II: Numerical Methods](https://python.quantecon.org/cake_eating_numerical.html)
-* [Cake Eating III: Stochastic Dynamics](https://python.quantecon.org/cake_eating_stochastic.html)
-* [Cake Eating IV: Time Iteration](https://python.quantecon.org/cake_eating_time_iter.html)
-* [Cake Eating V: The Endogenous Grid Method](https://python.quantecon.org/cake_eating_egm.html)
-* [Cake Eating VI: EGM with JAX](https://python.quantecon.org/cake_eating_egm_jax.html)
-* [The Income Fluctuation Problem I: Basic Model](https://python.quantecon.org/ifp.html)
 
 ## Grading
 
