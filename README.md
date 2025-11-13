@@ -49,7 +49,7 @@ assignments and grading!
 
 * Attendance: 20\% (measured from Tuesday Nov 11)
 * [Assignment 1](assignments/assignment_1.pdf): 20\% -- Available now and due Friday Nov 14 midnight
-* Assignment 2: 60\% -- Available Friday Nov 14 and due Friday Nov 21 midnight
+* [Assignment 2](assignments/assignment_2.ipynb): 60\% -- Available Friday Nov 14 and due Friday Nov 21 midnight
 
 Assessment of assignment 2 will involve randomized zoom calls where students will be asked to
 review and respond to questions on their work.
