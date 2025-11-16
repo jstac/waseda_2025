@@ -36,11 +36,11 @@ Periods 1 & 2 = 8:50 - 12:20
 
 * [Introduction](intro.pdf)
 * [An Introduction to JAX](https://jax.quantecon.org/jax_intro.html)
-* [Job Search I: The McCall Search Model](https://python.quantecon.org/mccall_model.html)
-* [Job Search II: Search and Separation](https://python.quantecon.org/mccall_model_with_separation.html)
-* [Job Search III: Search with Separation and Markov Wages](https://python.quantecon.org/mccall_model_with_sep_markov.html)
-* [A Lake Model of Employment and Unemployment](https://python.quantecon.org/lake_model.html)
-* [Lake Model with an Endogenous Job Finding Rate](https://python.quantecon.org/endogenous_lake.html)
+* [Job Search I](https://python.quantecon.org/mccall_model.html)
+* [Job Search II](https://python.quantecon.org/mccall_model_with_separation.html)
+* [Job Search III](https://python.quantecon.org/mccall_model_with_sep_markov.html)
+* [Job Search IV](https://python.quantecon.org/mccall_fitted_vfi.html)
+* [Job Search V](https://python.quantecon.org/mccall_persist_trans.html)
 
 ## Grading
 
